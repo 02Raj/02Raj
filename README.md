@@ -12,7 +12,7 @@
   - DevOps tools: `Docker`, `Jenkins`, `AWS`
   - System Design & Performance Optimization
 - 👨‍💻 All my projects are available at [My GitHub Repositories](https://github.com/02Raj?tab=repositories)
-- 📫 How to reach me: **divyanshraj.dev@gmail.com**
+- 📫 How to reach me: **divyanshraj02@gmail.com**
 
 ---
 
