@@ -11,7 +11,7 @@
 
 *Building scalable enterprise apps & AI-powered SaaS from Noida, India*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+Angular;Python+%7C+FastAPI+%7C+AWS;React+%7C+Next.js+%7C+MongoDB;AI-Assisted+Products+%26+Cloud+Ops" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=%E2%9C%A8+Welcome+to+my+Mini+World!;%F0%9F%9A%80+Building+software+with+faith+and+curiosity;%F0%9F%92%BB+Building+full-stack+web+and+AI-powered+applications;Java+%7C+Spring+Boot+%7C+Angular+%7C+Python+%7C+FastAPI;React+%7C+Next.js+%7C+MongoDB+%7C+AWS" alt="Typing SVG" />
 
 </div>
 
@@ -25,6 +25,17 @@
 🎓 Education B.Tech — Electronics & Communication (BIET Jhansi, 2017–2021)
 💼 Focus     Scalable backends, clean APIs, responsive UIs, cloud-native SaaS
 ```
+
+### What I Do
+
+- 💻 Building **full-stack web** and **AI-powered applications**
+- 👨‍💻 **Freelance Software Developer** — shipping products end-to-end
+- 🌎 **Open Source Contributor** — learning, sharing, and giving back
+- 🗣️ Translating **complex tech** into simple, developer-friendly content
+- 📝 **Newbie Technical Writer** · Building in public for a **global developer audience** 🤗
+- 🤝 **Open to collaborations**, freelance opportunities, and exciting ideas
+
+### How I Build
 
 - Engineering **RESTful microservices** with **Java, Spring Boot, JPA/Hibernate**
 - Shipping **Angular / React / Next.js** frontends with production-grade UX
