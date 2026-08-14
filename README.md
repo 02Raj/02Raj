@@ -94,7 +94,6 @@
 | **CloudSaathi** | Agentic AI assistant for AWS cloud ops — security audits, cost monitoring, voice alerts | `Python` `FastAPI` `Bedrock` `Docker` |
 | **DoctorFlow** | Clinic SaaS — appointments, WhatsApp automation, AI docs, billing | `React` `Firebase` `Sarvam AI` |
 | **TutorPe** | Ed-tech platform for tutors — attendance, fees, batches, notifications | `Next.js` `Firebase` `Vercel` |
-| **SlantPOS** | Restaurant POS — orders, KDS, inventory, realtime kitchen sync | `Angular` `Spring Boot` `WebSocket` |
 | **TechPlusNexus** | AI blogging platform with Gemini-generated content | `React` `Spring Boot` `AWS` |
 | **AI Portfolio** | Interactive portfolio assistant (this vibe ✨) | `Next.js` `Sarvam AI` `MongoDB` |
 
