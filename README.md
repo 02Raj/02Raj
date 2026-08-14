@@ -17,6 +17,13 @@
 
 ---
 
+<div align="center">
+  <i>"Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function."</i><br>
+  — <b>John Carmack</b>
+</div>
+
+---
+
 ## About Me
 
 ```text
@@ -94,20 +101,11 @@
 | **CloudSaathi** | Agentic AI assistant for AWS cloud ops — security audits, cost monitoring, voice alerts | `Python` `FastAPI` `Bedrock` `Docker` |
 | **DoctorFlow** | Clinic SaaS — appointments, WhatsApp automation, AI docs, billing | `React` `Firebase` `Sarvam AI` |
 | **TutorPe** | Ed-tech platform for tutors — attendance, fees, batches, notifications | `Next.js` `Firebase` `Vercel` |
+| **SlantPOS** | Restaurant POS — orders, KDS, inventory, realtime kitchen sync | `Angular` `Spring Boot` `WebSocket` |
 | **TechPlusNexus** | AI blogging platform with Gemini-generated content | `React` `Spring Boot` `AWS` |
 | **AI Portfolio** | Interactive portfolio assistant (this vibe ✨) | `Next.js` `Sarvam AI` `MongoDB` |
 
 > 🔗 **Live:** [techplusnexus.fun](https://techplusnexus.fun) · [tutorpe.in](https://tutorpe.in) · [portfolio.divyanshraj.in](https://portfolio.divyanshraj.in)
-
----
-
-## ✍️ Random Dev Quote
-
-<div align="center">
-  <a href="https://github.com/PiyushSuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-  </a>
-</div>
 
 ---
 
