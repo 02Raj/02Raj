@@ -102,6 +102,16 @@
 
 ---
 
+## ✍️ Random Dev Quote
+
+<div align="center">
+  <a href="https://github.com/PiyushSuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  </a>
+</div>
+
+---
+
 ## GitHub Analytics
 
 <div align="center">
