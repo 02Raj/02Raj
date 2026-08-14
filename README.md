@@ -94,10 +94,14 @@
 
 ---
 
-## 🚀 Currently Building in Public
+## 🚀 Build-in-Public Learning Portal
 
 **[Learn with Divyansh (Prep Hub)](https://github.com/02Raj/divyansh-s-prep-hub/)**  
-A dedicated platform I'm building openly to document my learnings, share interview prep resources, and grow alongside the community.  
+A public digital notebook and community platform built with a three-fold purpose:
+- **📝 Documenting Learnings:** An open space to document new tech skills and concepts, acting as a living portfolio extension.
+- **🎯 Sharing Interview Prep:** Collecting and sharing comprehensive notes and resources for SWE interviews (DSA, System Design, Java, Spring Boot, etc.).
+- **🤝 Growing the Community:** Helping fellow developers, building a network, and accelerating collective learning through open-source sharing.
+
 > 🔗 **Live Site:** [learn-with-divyansh.vercel.app](https://learn-with-divyansh.vercel.app/) | 💻 **Source Code:** [02Raj/divyansh-s-prep-hub](https://github.com/02Raj/divyansh-s-prep-hub/)
 
 ---
